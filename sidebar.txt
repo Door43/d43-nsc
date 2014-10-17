@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nsc:home|Door43 (nsc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nsc|d43-nsc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nsc/archive/master.zip|d43-nsc.zip]]
+
+**Recent Changes**
+{{changes>ns = nsc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nsc|Ethnologue data]]
+
